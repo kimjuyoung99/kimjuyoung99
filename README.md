@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-2023.07-2023.08 QAI \₩
-2023.08-2023.12 COMO \₩
-2023.11-ING...  SEJONGPEER \₩
+!2023.07-2023.08 QAI br/
+2023.08-2023.12 COMO br/
+2023.11-ING...  SEJONGPEER br/
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&show_icons=true&theme=radical)
 <!--

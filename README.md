@@ -4,11 +4,11 @@
 **kimjuyoung99/kimjuyoung99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<div>
 2023.07-2023.08 QAI
 2023.08-2023.12 COMO
 2023.11-ING...  SEJONGPEER
-
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

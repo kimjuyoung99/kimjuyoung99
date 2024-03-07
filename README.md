@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+2023.07-2023.08 QAI
+2023.08-2023.12 COMO
+2023.11-ING...  SEJONGPEER
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

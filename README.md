@@ -1,6 +1,5 @@
 
 <div align="left">
-<h1>Hi there👋</h1><br>
 
 2023.07-2023.08 QAI <br>
 2023.08-2023.12 COMO <br>

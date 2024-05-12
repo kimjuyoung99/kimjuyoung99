@@ -7,8 +7,11 @@
 #### 2024.02-ING...  FicnicFlick
 </div>
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&hide=contribs,issues,stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&count_private=true&hide=issues,stars)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&show_icons=true&theme=radical)
+
+ 
 <!--
 **kimjuyoung99/kimjuyoung99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

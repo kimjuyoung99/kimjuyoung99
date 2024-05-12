@@ -7,7 +7,7 @@
 #### 2024.02-ING...  FicnicFlick
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&count_private=true&hide=issues,stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&count_private=true&hide=issues,stars&theme=ambient_gradient)
 
 
  

@@ -19,10 +19,10 @@
 ![js](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 <div align="left">
 
-### 2023.07-2023.08 QAI <br>
-### 2023.08-2023.12 COMO <br>
-### 2023.11-ING...  SEJONGPEER <br>
-### 2024.02-ING...  FicnicFlick
+**2023.07 - 2023.08 &nbsp;&nbsp;&nbsp;&nbsp;QAI <br>**
+**2023.08 - 2023.12 &nbsp;&nbsp;&nbsp;&nbsp;COMO <br>**
+**2023.11 - ING...  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEJONGPEER <br>**
+**2024.02 - 2024.06   &nbsp;&nbsp;&nbsp;&nbsp;FicnicFlick**
 
 
 </div>

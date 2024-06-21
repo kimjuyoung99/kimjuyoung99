@@ -1,6 +1,6 @@
 ### **Sejong University**
 **-  Computer Science Department**<br/>
-![js](https://img.shields.io/badge/Apple-MacBook_2024-999999?style=for-the-badge&logo=apple&logoColor=white) **&nbsp;&nbsp;user**
+<!-- ![js](https://img.shields.io/badge/Apple-MacBook_2024-999999?style=for-the-badge&logo=apple&logoColor=white) **&nbsp;&nbsp;user** -->
 
  ---
  

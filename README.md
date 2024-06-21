@@ -1,5 +1,5 @@
 ### **Sejong University**
-**-  Computer Science Department**<br/><br/>
+**-  Computer Science Department**<br/>
 ![js](https://img.shields.io/badge/Apple-MacBook_2024-999999?style=for-the-badge&logo=apple&logoColor=white) **&nbsp;&nbsp;user**
 
 ---
@@ -17,18 +17,18 @@
 ![js](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![js](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-<br/><br/>
+<br/>
 ### 📃learned it from a college lecture 
  ![js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
  ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
  ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  <br/><br/>
+  <br/>
 
 ### 🤓 I'm interested, so I'm a little... 🤓
   ![js](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
   ![js](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
-  <br/><br/>
+  <br/>
 
 
 

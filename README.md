@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hi, I'm Juyoung 🙌
 
 ### **Sejong University**
@@ -7,7 +9,6 @@
 
  
 **📚Learning...**
-<div align="left">
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,15 +40,16 @@
   <br/>
 
 ##
-| Period                  | Project                                                                   | Description                            |
-|-----------------------|-------------------------------------------------------------------------|---------------------------------------------|
-| 2024.02 - 2024.06     | [FicnicFlick](https://picnicflick.store/)                               | [스마트 무인 돗자리 대여 서비스](https://github.com/Ficnicflick/Frontend-server)              |
-| 2023.11 -  ING~        | [SEJONGPEER](https://sejongpeer.co.kr/)                                 | [세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c)             |
-| 2023.08 - 2023.12     | COMO                                                                    | 팀원 모집 및 개능공유 사이트                |
-| 2023.07 - 2023.08     | QAI                                                                     | IT 질의응답 사이트                           |
+| Period                  | Project                                                                   | Description                            | Network                        |
+|-----------------------|-------------------------------------------------------------------------|---------------------------------------------|--------------------------------|
+| 2024.02 - 2024.06     | [FicnicFlick](https://picnicflick.store/)                               | [스마트 무인 돗자리 대여 서비스](https://github.com/Ficnicflick/Frontend-server)              | 세종창의학기제                      |
+| 2023.11 -  ING~        | [SEJONGPEER](https://sejongpeer.co.kr/)                                 | [세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c)             | 멋쟁이사자처럼                      |
+| 2023.08 - 2023.12     | COMO                                                                    | 팀원 모집 및 기능공유 사이트                | 세종창의학기제                      |
+| 2023.07 - 2023.08     | QAI                                                                     | IT 질의응답 사이트                           | 멋쟁이사자처럼 중앙해커톤               |
 
 
 </div>
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&count_private=true&hide=issues,stars&theme=ambient_gradient)
 

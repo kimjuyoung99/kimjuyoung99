@@ -3,8 +3,9 @@
 ## Hi, I'm Juyoung 🙌
 
 **세종대학교 컴퓨터공학과**<br/>
-* (2022.09-2023.03) 연합동아리 [COTATO](https://www.cotato.kr/) 4,5기 <br/>
-* (2023.03-2024.01) [멋쟁이사자처럼 at 세종대](https://www.instagram.com/likelion_sejong/?hl=ko) frontend track
+* (2022.09-2023.03) 연합동아리 [COTATO](https://www.cotato.kr/) 4, 5기 <br/>
+* (2023.03-2024.01) [멋쟁이사자처럼 at 세종대](https://www.instagram.com/likelion_sejong/?hl=ko) Front-end track
+* (2024.07~) Programmers Dev-Course Front-end Engineering
 <!-- ![js](https://img.shields.io/badge/Apple-MacBook_2024-999999?style=for-the-badge&logo=apple&logoColor=white) **&nbsp;&nbsp;user** -->
 ## 
 
@@ -41,6 +42,7 @@
   <br/>
 
 ##
+<!--
 | Period                  | Project                                                                   | Description                            | Network                        |
 |-----------------------|-------------------------------------------------------------------------|---------------------------------------------|--------------------------------|
 | 2024.02 - 2024.06     | [PicnicFlick](https://picnicflick.store/)                               | [스마트 무인 돗자리 대여 서비스](https://github.com/Ficnicflick/Frontend-server)              | 세종창의학기제                      |
@@ -48,7 +50,7 @@
 | 2023.08 - 2023.12     | COMO                                                                    | 팀원 찾기 및 재능공유 사이트                | 세종창의학기제                      |
 | 2023.07 - 2023.08     | QAI                                                                     | IT 질의응답 사이트                           | 멋쟁이사자처럼 중앙해커톤               |
 
-
+-->
 </div>
 <div align="left">
 

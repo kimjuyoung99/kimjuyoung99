@@ -5,6 +5,7 @@
 **세종대학교 컴퓨터공학과**<br/>
 * (2022.09-2023.03) 연합동아리 [COTATO](https://www.cotato.kr/) 4, 5기 <br/>
 * (2023.03-2024.01) [멋쟁이사자처럼 at 세종대](https://www.instagram.com/likelion_sejong/?hl=ko) Front-end track
+* (2023.06-2024.06) 세종창의학기제
 * (2024.07~) Programmers Dev-Course Front-end Engineering
 <!-- ![js](https://img.shields.io/badge/Apple-MacBook_2024-999999?style=for-the-badge&logo=apple&logoColor=white) **&nbsp;&nbsp;user** -->
 ## 

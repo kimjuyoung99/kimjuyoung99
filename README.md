@@ -54,16 +54,13 @@
 -->
 </div>
 <div align="left">
+<!-- ![kimjuyoung99's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite)
+ -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&count_private=true&hide=issues,stars&theme=ambient_gradient)
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&count_private=true&hide=issues,stars&theme=graywhite)
 
 <!-- 애매한 스택들
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-
 -->
 

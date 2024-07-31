@@ -42,17 +42,26 @@
   ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
   <br/>
 
-##
 
+## Project
+* (2024.02 - 2024.06) PicnicFlick: [스마트 무인 돗자리 대여 서비스](https://github.com/Ficnicflick/Frontend-server) (세종창의학기제)
+* (2023.11 - 2024.07) [SEJONGPEER](https://sejongpeer.co.kr/): [세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c) (멋쟁이사자처럼)
+* (2023.08 - 2023.12) COMO: 팀원 찾기 및 재능공유 사이트 (세종창의학기제)
+* (2023.07 - 2023.08) QAI: IT 질의응답 사이트 (멋쟁이사자처럼 중앙해커톤)
+
+<!--
 | Period                  | Project                                                                   | Description                            | Network                        |
 |-----------------------|-------------------------------------------------------------------------|---------------------------------------------|--------------------------------|
 | 2024.02 - 2024.06     | PicnicFlick                           | [스마트 무인 돗자리 대여 서비스](https://github.com/Ficnicflick/Frontend-server)              | 세종창의학기제                      |
 | 2023.11 -  2024.07        | [SEJONGPEER](https://sejongpeer.co.kr/)                                 | [세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c)             | 멋쟁이사자처럼                      |
 | 2023.08 - 2023.12     | COMO                                                                    | 팀원 찾기 및 재능공유 사이트                | 세종창의학기제                      |
 | 2023.07 - 2023.08     | QAI                                                                     | IT 질의응답 사이트                           | 멋쟁이사자처럼 중앙해커톤               |
+-->
 
 
 </div>
+
+##
 <div align="left">
 <!-- ![kimjuyoung99's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite)
  -->

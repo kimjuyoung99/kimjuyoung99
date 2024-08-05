@@ -42,8 +42,8 @@
   ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
   <br/>
 
-
-## Project
+##
+<!--## Project-->
 * (2024.02 - 2024.06)&nbsp;&nbsp;PicnicFlick &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            : [스마트 무인 돗자리 대여 서비스](https://github.com/Ficnicflick/Frontend-server) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(세종창의학기제)
 * (2023.11 - 2024.07)&nbsp;&nbsp; [SEJONGPEER](https://sejongpeer.co.kr/)&nbsp;&nbsp; : [세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(멋쟁이사자처럼)
 * (2023.08 - 2023.12)&nbsp;&nbsp; COMO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : [팀원 찾기 및 재능공유 사이트](https://github.com/TeamCOMO/frontend) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(세종창의학기제)

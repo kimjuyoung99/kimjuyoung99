@@ -2,7 +2,7 @@
 
 ## Hi, I'm Juyoung 🙌
 
-**세종대학교 컴퓨터공학과**<br/>
+세종대학교 컴퓨터공학과<br/>
 * (2024.07~) Programmers Dev-Course Front-end Engineering
 * (2023.06-2024.06) 세종창의학기제
 * (2023.03-2024.01) [멋쟁이사자처럼 at 세종대](https://www.instagram.com/likelion_sejong/?hl=ko) Front-end track

@@ -51,10 +51,15 @@
 
 ##
 <!--## Project-->
-* (2024.02 - 2024.06)&nbsp;&nbsp;PicnicFlick &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            : [스마트 무인 돗자리 대여 서비스](https://github.com/Ficnicflick/Frontend-server) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(세종창의학기제)
-* (2023.11 - 2024.07)&nbsp;&nbsp; [SEJONGPEER](https://sejongpeer.co.kr/)&nbsp;&nbsp; : [세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(멋쟁이사자처럼)
-* (2023.08 - 2023.12)&nbsp;&nbsp; COMO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : [팀원 찾기 및 재능공유 사이트](https://github.com/TeamCOMO/frontend) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(세종창의학기제)
+<!--(2024.02 - 2024.06)--> 
+* PicnicFlick &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            : [스마트 무인 돗자리 대여 서비스](https://github.com/Ficnicflick/Frontend-server) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(세종창의학기제)
+<!--(2023.11 - 2024.07)--> 
+* [SEJONGPEER](https://sejongpeer.co.kr/)&nbsp;&nbsp; : [세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(멋쟁이사자처럼)
+<!--(2023.08 - 2023.12)-->
+* COMO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : [팀원 찾기 및 재능공유 사이트](https://github.com/TeamCOMO/frontend) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(세종창의학기제)
+<!-- 
 * (2023.07 - 2023.08) &nbsp;&nbsp;QAI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : IT 질의응답 사이트 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(멋쟁이사자처럼 중앙해커톤)
+-->
 
 <!--
 | Period                  | Project                                                                   | Description                            | Network                        |

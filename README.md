@@ -1,4 +1,8 @@
 <div align="left">
+<!--
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bootstrap,C,figma,git,github,jquery,mysql,nodejs,npm,py,react,redux,ts,vercel,vite,vscode,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,eclipse,express,ai,instagram,java,ps,c)](https://skillicons.dev)
+-->
 
 ## Hi, I'm Juyoung 🙌
 
@@ -85,4 +89,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 -->
+
+
 

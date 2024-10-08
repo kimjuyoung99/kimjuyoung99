@@ -1,7 +1,8 @@
 <div align= "left">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hi,%20I'm%20Juyoung%20🙌&animation=&fontColor=000000&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hi,%20I'm%20Juyoung%20🙌&animation=&fontColor=000000&fontSize=32" />
     </div>
     <div style="text-align: left;">
+
  <div>
       <ul>
     <strong>세종대학교 컴퓨터공학과</strong>
@@ -53,16 +54,28 @@
 **⚃ More?** </br>
   <a href="https://www.instagram.com/gl0ryto_l?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 -->
+
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
+
 ### &nbsp;Project
 - &nbsp;&nbsp;[발바닥구조대](https://paw-rescuers.netlify.app) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[유기동물 매칭, 정보제공 서비스](https://github.com/kimjuyoung99/pawsome-rescuers) (데브코스)
 - &nbsp;&nbsp;PicnicFlick &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[스마트 무인 돗자리 대여 서비스](https://github.com/Ficnicflick/Frontend-server) (세종창의학기제)
 - &nbsp;&nbsp;[SEJONGPEER](https://sejongpeer.co.kr/) &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c) (멋쟁이사자처럼)
 - &nbsp;&nbsp;COMO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[팀원 찾기 및 재능공유 사이트](https://github.com/TeamCOMO/frontend) (세종창의학기제)
-<br>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kimjuyoung99&count_private=true&hide=issues,stars&theme=graywhite" alt="Anurag's GitHub stats">
 
+</td>
+<td width="45%" valign="top">
+    
+### &nbsp;❀
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kimjuyoung99&count_private=true&hide=issues,stars&theme=graywhite" alt="Anurag's GitHub stats">
 
-
+</td>
+</tr>
+</table>
 
 
 

@@ -59,7 +59,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="55%" valign="top">
+<td width="57%" valign="top">
 
 ### &nbsp;Project
 - &nbsp;&nbsp;[발바닥구조대](https://paw-rescuers.netlify.app) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[유기동물 매칭, 정보제공 서비스](https://github.com/kimjuyoung99/pawsome-rescuers) (데브코스)
@@ -68,7 +68,7 @@
 - &nbsp;&nbsp;COMO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[팀원 찾기 및 재능공유 사이트](https://github.com/TeamCOMO/frontend) (세종창의학기제)
 
 </td>
-<td width="45%" valign="top">
+<td width="43%" valign="top">
     
 ### &nbsp;❀
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kimjuyoung99&count_private=true&hide=issues,stars&theme=graywhite" alt="Anurag's GitHub stats">

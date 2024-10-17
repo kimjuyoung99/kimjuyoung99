@@ -4,8 +4,9 @@
     <div style="text-align: left;">
 
  <div>
-      <ul>
-    <strong>세종대학교 컴퓨터공학과</strong>
+      
+✿ 세종대학교 컴퓨터공학과
+<ul>
         <li>(2024.07~) Programmers Dev-Course Front-end Engineering</li>
         <li>(2023.06-2024.06) 세종창의학기제</li>
         <li>(2023.03-2024.01) <a href="https://www.instagram.com/likelion_sejong/?hl=ko">멋쟁이사자처럼 at 세종대</a> Front-end track</li>
